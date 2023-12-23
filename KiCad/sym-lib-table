@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "KZ80-YM2149-rescue")(type "Legacy")(uri "C:/Users/kuninet/git/KZ80-YM2149/KiCAD/KZ80-YM2149-rescue.lib")(options "")(descr ""))
+  (lib (name "YM2151-rescue")(type "Legacy")(uri "C:/Users/kuninet/git/KZ80-YM2149/KiCAD/YM2151-rescue.lib")(options "")(descr ""))
+  (lib (name "YM2149")(type "Legacy")(uri "C:/Users/kuninet/git/KZ80-YM2149/KiCAD/YM2149.lib")(options "")(descr ""))
+)
