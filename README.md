@@ -9,8 +9,8 @@
   |:--|:--|
   |0A0h(0A4h)|PSG#1 レジスタ番号|
   |0A1h(0A5h)|PSG#1 データ|
-  |0A2h(0A6h)|PSG#1 レジスタ番号|
-  |0A3h(0A7h)|PSG#1 データ|
+  |0A2h(0A6h)|PSG#2 レジスタ番号|
+  |0A3h(0A7h)|PSG#2 データ|
 
 ![](image/PC8001-PSG-BOARD.jpg)
 
